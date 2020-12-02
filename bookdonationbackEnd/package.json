@@ -1,0 +1,16 @@
+{
+  "name": "bookdonation",
+  "version": "1.0.0",
+  "description": "Online book donation",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "SushmaC",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.18.2",
+    "mongodb": "^3.6.2",
+    "nodemon": "^2.0.6"
+  }
+}
