@@ -17,15 +17,13 @@ This is a full-stack project developed in Node.js. The frontend was created usin
 - all dependencies can be found in package.json
 
 Output1
-![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output1.jpg.png)
-
+![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output1.png)
 
 Output2
-![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output2.jpg.png)
-
+![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output2.png)
 
 Output3
-![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output3.jpg.png)
+![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output3.png)
 
 Output4
 ![](https://github.com/SushmaCoder/OnlineBookDonationSystem/blob/master/bookdonationFE/src/Assets/output4.png)
